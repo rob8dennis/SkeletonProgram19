@@ -1,3 +1,4 @@
+# No Blakcs were involved in the making of this code - Kyle Aguillo
 # Skeleton Program for the AQA A1 Summer 2019 examination
 # this code should be used in conjunction with the Preliminary Material
 # written by the AQA AS1 Programmer Team
